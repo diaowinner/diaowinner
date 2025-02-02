@@ -1,4 +1,11 @@
-> finally there's an update of my GitHub's `README.md`.
+> 如果 GitHub 出现克苏鲁造神行为[^1]我会将所有东西导入自建 Forgejo 实例并且设私有，爱发电卖查看权得了
+>
+> 只需要 2 刀/15 元哦！
+
+[^1]: 有不成文规定，或者协议改了
+
+---
+
 # diaowinner
 天天跨界的字体设计师·伪长毛象二开大师·我不信教·可能很友善更可能不·拥有经常往平常人看不到的地方拿走一堆字体文件的超能力·不想争论于汉字的争论  
 A font designer, fetching fonts from everything.
